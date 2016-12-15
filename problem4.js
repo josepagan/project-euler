@@ -16,7 +16,7 @@ for (x = 0; x < 1000; x++) {
 }
 console.log(maxX,maxY,maxZ)
 
-
+//this function checks that the number is a palindrome (can be read both ways)
 function palintest(num) {
   var inverted = "";
 
